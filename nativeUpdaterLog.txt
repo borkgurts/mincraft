@@ -1,0 +1,272 @@
+[Error: 2023-02-25 21:27:27.559815: localization.cpp(110)] No translation found for "Unable to download <game>. Please try again later."
+[Error: 2023-02-25 21:27:27.559867: localization.cpp(110)] No translation found for "Unable to download the <game> Native Launcher."
+[Error: 2023-02-25 21:27:27.559881: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2023-02-25 21:27:27.559892: localization.cpp(110)] No translation found for "Unable to download the <game> Runtime Environment."
+[Error: 2023-02-25 21:27:27.559903: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2023-02-25 21:27:27.559914: localization.cpp(110)] No translation found for "Unable to update the <game> Runtime Environment."
+[Error: 2023-02-25 21:27:27.559989: localization.cpp(110)] No translation found for "Unable to update the <game> Native Launcher."
+[Error: 2023-02-25 21:27:27.560001: localization.cpp(110)] No translation found for "Unable to relaunch the Minecraft bootstrap."
+[Error: 2023-02-25 21:27:27.560012: localization.cpp(110)] No translation found for "Unable to start the <game> Runtime Environment. This is most likely caused by a corruption. Please try to reinstall <game>."
+[Error: 2023-02-25 21:27:27.560025: localization.cpp(110)] No translation found for "Unable to start <game>, if you are running from a dmg, please drag to Applications and try again."
+[Error: 2023-02-25 21:27:27.560035: localization.cpp(110)] No translation found for "Unable to initialize the network library."
+[Error: 2023-02-25 21:27:27.560045: localization.cpp(110)] No translation found for "Failed to initialize GDK, please make sure Xbox App and Gaming Services are up to date and running."
+[Error: 2023-02-25 21:27:27.560055: localization.cpp(110)] No translation found for "<game> Launcher"
+[Info: 2023-02-25 21:27:27.561875: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-02-25 21:27:27.562893: NetQueue.cpp(666)] NetQueue: worker thread started.
+[Error: 2023-02-25 21:27:27.569157: localization.cpp(110)] No translation found for "Unable to download <game>. Please try again later."
+[Error: 2023-02-25 21:27:27.569181: localization.cpp(110)] No translation found for "Unable to download the <game> Native Launcher."
+[Error: 2023-02-25 21:27:27.569193: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2023-02-25 21:27:27.569203: localization.cpp(110)] No translation found for "Unable to download the <game> Runtime Environment."
+[Error: 2023-02-25 21:27:27.569213: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2023-02-25 21:27:27.569223: localization.cpp(110)] No translation found for "Unable to update the <game> Runtime Environment."
+[Error: 2023-02-25 21:27:27.569233: localization.cpp(110)] No translation found for "Unable to update the <game> Native Launcher."
+[Error: 2023-02-25 21:27:27.569242: localization.cpp(110)] No translation found for "Unable to relaunch the Minecraft bootstrap."
+[Error: 2023-02-25 21:27:27.569252: localization.cpp(110)] No translation found for "Unable to start the <game> Runtime Environment. This is most likely caused by a corruption. Please try to reinstall <game>."
+[Error: 2023-02-25 21:27:27.569262: localization.cpp(110)] No translation found for "Unable to start <game>, if you are running from a dmg, please drag to Applications and try again."
+[Error: 2023-02-25 21:27:27.569271: localization.cpp(110)] No translation found for "Unable to initialize the network library."
+[Error: 2023-02-25 21:27:27.569281: localization.cpp(110)] No translation found for "Failed to initialize GDK, please make sure Xbox App and Gaming Services are up to date and running."
+[Error: 2023-02-25 21:27:27.569290: localization.cpp(110)] No translation found for "<game> Launcher"
+[Info: 2023-02-25 21:27:27.569335: Common.cpp(32)] Native Launcher Version: 1.1.32
+[Info: 2023-02-25 21:27:27.569349: Common.cpp(33)] Operating System: OSX Version 13.0 (Build 22A380)
+[Info: 2023-02-25 21:27:27.569662: Common.cpp(34)] Application Data directory: /.../minecraft
+[Info: 2023-02-25 21:27:27.569718: Common.cpp(35)] Executable Path: /.../launcher
+[Info: 2023-02-25 21:27:27.569730: Common.cpp(36)] App Directory dir: /.../Contents
+[Info: 2023-02-25 21:27:27.569742: Common.cpp(37)] Game data directory: /.../Install
+[Info: 2023-02-25 21:27:27.569754: Common.cpp(38)] Launcher dir: /.../launcher
+[Info: 2023-02-25 21:27:27.569766: Common.cpp(39)] Java dir: /.../jre-x64
+[Info: 2023-02-25 21:27:27.569777: Common.cpp(40)] TmpDir dir: /.../MinecraftLauncher
+[Info: 2023-02-25 21:27:27.569788: Common.cpp(41)] x64: true
+[Info: 2023-02-25 21:27:27.570186: LauncherConfiguration.cpp(301)] Using update preferences at path: /.../launcher_profiles.json
+[Warning: 2023-02-25 21:27:27.570260: LauncherConfiguration.cpp(112)] Failed to get clientToken from configuration, launcher updater will fall back to using stable versions instead of controlled experiment versions.
+[Info: 2023-02-25 21:27:27.570277: LauncherConfiguration.cpp(304)] Failed to read update preferences from /.../launcher_profiles.json
+[Info: 2023-02-25 21:27:27.570292: LauncherConfiguration.cpp(315)] Using update preferences at path: /.../launcher_settings.json
+[Info: 2023-02-25 21:27:27.570836: NetQueue.cpp(695)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2023-02-25 21:27:27.642871: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.228.15, Host: launchermeta.mojang.com
+[Info: 2023-02-25 21:27:27.642903: NetQueue.cpp(573)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2023-02-25 21:27:27.642919: NetQueue.cpp(615)] Action finalized: https://launchermeta.mojang.com/v1/products/launcher/022631aeac4a9addbce8e0503dce662152dc198d/mac-os.json
+[Info: 2023-02-25 21:27:27.643313: LauncherConfiguration.cpp(197)] Deciding on update with strategy 2 and clientID 3059164627
+[Info: 2023-02-25 21:27:27.643335: LauncherConfiguration.cpp(214)] Version of launcher-bootstrap-ado is current, no action is necessary.
+[Info: 2023-02-25 21:27:27.643348: LauncherConfiguration.cpp(247)] Bootstrap is current
+[Info: 2023-02-25 21:27:27.643424: LauncherConfiguration.cpp(197)] Deciding on update with strategy 2 and clientID 3059164627
+[Info: 2023-02-25 21:27:27.643440: LauncherConfiguration.cpp(218)] We should change launcher-core-ado from 2.3.592 to 2.3.619
+[Info: 2023-02-25 21:27:27.643452: LauncherConfiguration.cpp(237)] launcher-core-ado update is needed.
+[Info: 2023-02-25 21:27:27.643475: main.cpp(41)] Game launcher outdated!
+[Info: 2023-02-25 21:27:27.643495: UpdatePistonComponent.cpp(57)] Piston update in folder /.../launcher will now run. (https://piston-meta.mojang.com/v1/packages/7ede69666f66c320ba6fe292dcf2871a92e4313b/manifest.json to version 2.3.619)
+[Info: 2023-02-25 21:27:27.643528: PistonUpdate.cpp(625)] Downloading https://piston-meta.mojang.com/v1/packages/7ede69666f66c320ba6fe292dcf2871a92e4313b/manifest.json
+[Info: 2023-02-25 21:27:27.643779: NetQueue.cpp(695)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/7ede69666f66c320ba6fe292dcf2871a92e4313b/manifest.json
+[Info: 2023-02-25 21:27:27.657908: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.228.15, Host: piston-meta.mojang.com
+[Info: 2023-02-25 21:27:27.657934: NetQueue.cpp(573)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/7ede69666f66c320ba6fe292dcf2871a92e4313b/manifest.json
+[Info: 2023-02-25 21:27:27.657964: NetQueue.cpp(615)] Action finalized: https://launchermeta.mojang.com/v1/packages/7ede69666f66c320ba6fe292dcf2871a92e4313b/manifest.json
+[Info: 2023-02-25 21:27:27.660834: PistonUpdate.cpp(701)] Target path: /.../launcher
+[Info: 2023-02-25 21:27:27.661945: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.662017: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher, internal: /.../launcher
+[Info: 2023-02-25 21:27:27.662080: Sha1Cacher.cpp(112)] SHA1 cacher get /.../ui.zip, internal: /.../ui.zip
+[Info: 2023-02-25 21:27:27.662116: Sha1Cacher.cpp(112)] SHA1 cacher get /.../JavaCheck.jar, internal: /.../JavaCheck.jar
+[Info: 2023-02-25 21:27:27.662258: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher.icns, internal: /.../launcher.icns
+[Info: 2023-02-25 21:27:27.663561: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.663673: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.663747: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher-Helper, internal: /.../launcher-Helper
+[Info: 2023-02-25 21:27:27.663874: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.663900: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.663979: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher-Helper (Renderer), internal: /.../launcher-Helper (Renderer)
+[Info: 2023-02-25 21:27:27.664137: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.664194: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher-Helper (Plugin), internal: /.../launcher-Helper (Plugin)
+[Info: 2023-02-25 21:27:27.664254: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.664828: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.665363: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.666084: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.666174: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.666243: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.666329: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.666438: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.667393: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669015: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669097: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669123: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669120: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669176: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.669441: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.672133: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.672416: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.672445: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.672592: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.672655: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.673017: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.673278: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.673705: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.674056: Sha1Cacher.cpp(112)] SHA1 cacher get /.../vk_swiftshader_icd.json, internal: /.../vk_swiftshader_icd.json
+[Info: 2023-02-25 21:27:27.674203: Sha1Cacher.cpp(112)] SHA1 cacher get /.../libEGL.dylib, internal: /.../libEGL.dylib
+[Info: 2023-02-25 21:27:27.674323: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.674367: Sha1Cacher.cpp(112)] SHA1 cacher get /.../libswiftshader_libEGL.dylib, internal: /.../libswiftshader_libEGL.dylib
+[Info: 2023-02-25 21:27:27.674794: Sha1Cacher.cpp(112)] SHA1 cacher get /.../.version, internal: /.../.version
+[Info: 2023-02-25 21:27:27.674841: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.674971: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Info.plist, internal: /.../Info.plist
+[Info: 2023-02-25 21:27:27.675046: Sha1Cacher.cpp(112)] SHA1 cacher get /.../CodeResources, internal: /.../CodeResources
+[Info: 2023-02-25 21:27:27.675221: Sha1Cacher.cpp(112)] SHA1 cacher get /.../launcher-Helper (GPU), internal: /.../launcher-Helper (GPU)
+[Info: 2023-02-25 21:27:27.675376: Sha1Cacher.cpp(112)] SHA1 cacher get /.../snapshot_blob.bin, internal: /.../snapshot_blob.bin
+[Info: 2023-02-25 21:27:27.675526: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.676951: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.677290: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.677637: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.679227: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.680522: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.681042: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.681129: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.681252: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.681335: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.681491: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.682309: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.683221: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.683362: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.683498: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.683872: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.684091: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.684918: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.685100: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.685455: Sha1Cacher.cpp(112)] SHA1 cacher get /.../chrome_100_percent.pak, internal: /.../chrome_100_percent.pak
+[Info: 2023-02-25 21:27:27.685886: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.685938: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.686009: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.687227: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.687386: Sha1Cacher.cpp(112)] SHA1 cacher get /.../v8_context_snapshot.x86_64.bin, internal: /.../v8_context_snapshot.x86_64.bin
+[Info: 2023-02-25 21:27:27.687807: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.687984: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.688223: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.688436: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.694611: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.694684: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.695884: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.695956: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.696087: Sha1Cacher.cpp(112)] SHA1 cacher get /.../locale.pak, internal: /.../locale.pak
+[Info: 2023-02-25 21:27:27.696168: Sha1Cacher.cpp(112)] SHA1 cacher get /.../chrome_200_percent.pak, internal: /.../chrome_200_percent.pak
+[Info: 2023-02-25 21:27:27.697584: Sha1Cacher.cpp(112)] SHA1 cacher get /.../libswiftshader_libGLESv2.dylib, internal: /.../libswiftshader_libGLESv2.dylib
+[Info: 2023-02-25 21:27:27.699049: Sha1Cacher.cpp(112)] SHA1 cacher get /.../libvk_swiftshader.dylib, internal: /.../libvk_swiftshader.dylib
+[Info: 2023-02-25 21:27:27.699316: Sha1Cacher.cpp(112)] SHA1 cacher get /.../resources.pak, internal: /.../resources.pak
+[Info: 2023-02-25 21:27:27.699651: Sha1Cacher.cpp(112)] SHA1 cacher get /.../libGLESv2.dylib, internal: /.../libGLESv2.dylib
+[Info: 2023-02-25 21:27:27.699677: Sha1Cacher.cpp(112)] SHA1 cacher get /.../icudtl.dat, internal: /.../icudtl.dat
+[Info: 2023-02-25 21:27:27.700191: Sha1Cacher.cpp(112)] SHA1 cacher get /.../Chromium Embedded Framework, internal: /.../Chromium Embedded Framework
+[Info: 2023-02-25 21:27:28.273748: PistonUpdate.cpp(717)] Staging path: /.../PistonStaging
+[Info: 2023-02-25 21:27:28.276394: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f227f591cfeb663a2d84e65f3109862e270df25b/launcher-Helper%20(GPU)
+[Info: 2023-02-25 21:27:28.276420: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/e7003bd8653e09a736db28e5252c62cfbee73b20/launcher-Helper%20(Plugin)
+[Info: 2023-02-25 21:27:28.276432: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/7d01ab4cf6a495954861e453965f2fd2da14b649/launcher-Helper%20(Renderer)
+[Info: 2023-02-25 21:27:28.276443: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/7b697c23788cb9b56ccd36d21bb87eb323f17e11/launcher-Helper
+[Info: 2023-02-25 21:27:28.276454: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/47d1680b4068c6e301ef42ddd6c8201b464b2d3a/launcher
+[Info: 2023-02-25 21:27:28.276464: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/cc82e164aabb8cf165230461549999b8e0574016/JavaCheck.jar
+[Info: 2023-02-25 21:27:28.387367: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:28.387391: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/cc82e164aabb8cf165230461549999b8e0574016/JavaCheck.jar
+[Info: 2023-02-25 21:27:28.387459: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/cc82e164aabb8cf165230461549999b8e0574016/JavaCheck.jar
+[Info: 2023-02-25 21:27:28.387480: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/631bdba5bd9e4d1ec29927d570eb6b096e7a740c/allayexit.zip
+[Info: 2023-02-25 21:27:28.389329: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:28.389345: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/7d01ab4cf6a495954861e453965f2fd2da14b649/launcher-Helper%20(Renderer)
+[Info: 2023-02-25 21:27:28.389397: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/7d01ab4cf6a495954861e453965f2fd2da14b649/launcher-Helper%20(Renderer)
+[Info: 2023-02-25 21:27:28.389416: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/9870746d937570d891e16bdf9bbfdf002dc52d01/allayidle.zip
+[Info: 2023-02-25 21:27:28.398178: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:28.398190: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/7b697c23788cb9b56ccd36d21bb87eb323f17e11/launcher-Helper
+[Info: 2023-02-25 21:27:28.398240: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/7b697c23788cb9b56ccd36d21bb87eb323f17e11/launcher-Helper
+[Info: 2023-02-25 21:27:28.398255: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/6eb2aaf848c659a472ced57a8b3237f28484e3fd/allayloading.zip
+[Info: 2023-02-25 21:27:28.410119: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:28.410134: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f227f591cfeb663a2d84e65f3109862e270df25b/launcher-Helper%20(GPU)
+[Info: 2023-02-25 21:27:28.410185: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/f227f591cfeb663a2d84e65f3109862e270df25b/launcher-Helper%20(GPU)
+[Info: 2023-02-25 21:27:28.410206: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/5d72b9b220c76e1a7fd460791251b1961aff1875/allayreveal.zip
+[Info: 2023-02-25 21:27:28.410813: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:28.410824: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/e7003bd8653e09a736db28e5252c62cfbee73b20/launcher-Helper%20(Plugin)
+[Info: 2023-02-25 21:27:28.410866: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/e7003bd8653e09a736db28e5252c62cfbee73b20/launcher-Helper%20(Plugin)
+[Info: 2023-02-25 21:27:28.410882: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/95d233109b2825fe6fcb767009805ea7c851c734/allaytwirl.zip
+[Info: 2023-02-25 21:27:31.287427: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:31.287483: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/47d1680b4068c6e301ef42ddd6c8201b464b2d3a/launcher
+[Info: 2023-02-25 21:27:31.287804: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/47d1680b4068c6e301ef42ddd6c8201b464b2d3a/launcher
+[Info: 2023-02-25 21:27:31.287866: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/45551e33af6153da7697adc8397f51a6083d9119/background.zip
+[Info: 2023-02-25 21:27:39.072751: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:39.073687: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/45551e33af6153da7697adc8397f51a6083d9119/background.zip
+[Info: 2023-02-25 21:27:39.073941: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/45551e33af6153da7697adc8397f51a6083d9119/background.zip
+[Info: 2023-02-25 21:27:39.074043: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/4c0bf1ac1a01ec46283297e04750e8d4ecd32a45/common.zip
+[Info: 2023-02-25 21:27:39.525777: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:39.525926: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/4c0bf1ac1a01ec46283297e04750e8d4ecd32a45/common.zip
+[Info: 2023-02-25 21:27:39.526415: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/4c0bf1ac1a01ec46283297e04750e8d4ecd32a45/common.zip
+[Info: 2023-02-25 21:27:39.526525: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/2506b6650eb25794efd19c66049c731667a0440d/icons.zip
+[Info: 2023-02-25 21:27:39.596316: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:39.596479: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/2506b6650eb25794efd19c66049c731667a0440d/icons.zip
+[Info: 2023-02-25 21:27:39.596843: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/2506b6650eb25794efd19c66049c731667a0440d/icons.zip
+[Info: 2023-02-25 21:27:39.596941: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/b15825fa815099d73c0bfb0ef06ab499eb8e28e5/images.zip
+[Info: 2023-02-25 21:27:45.754611: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:45.754736: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/9870746d937570d891e16bdf9bbfdf002dc52d01/allayidle.zip
+[Info: 2023-02-25 21:27:45.755378: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/9870746d937570d891e16bdf9bbfdf002dc52d01/allayidle.zip
+[Info: 2023-02-25 21:27:45.755511: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/5889913623c172da5ff6d72f09ae0d141381053e/legendsnotification.zip
+[Info: 2023-02-25 21:27:54.550275: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:54.550348: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/5889913623c172da5ff6d72f09ae0d141381053e/legendsnotification.zip
+[Info: 2023-02-25 21:27:54.550627: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/5889913623c172da5ff6d72f09ae0d141381053e/legendsnotification.zip
+[Info: 2023-02-25 21:27:54.550677: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/f7720f524210ed744a8c67d1f0ba379ed1adb471/logos.zip
+[Info: 2023-02-25 21:27:54.862469: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:54.862585: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/631bdba5bd9e4d1ec29927d570eb6b096e7a740c/allayexit.zip
+[Info: 2023-02-25 21:27:54.863180: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/631bdba5bd9e4d1ec29927d570eb6b096e7a740c/allayexit.zip
+[Info: 2023-02-25 21:27:54.863329: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8fd574303e0bce8172459f6be705e5dc9dc39664/minecraftlive.zip
+[Info: 2023-02-25 21:27:54.931603: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:54.931754: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8fd574303e0bce8172459f6be705e5dc9dc39664/minecraftlive.zip
+[Info: 2023-02-25 21:27:54.931980: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/8fd574303e0bce8172459f6be705e5dc9dc39664/minecraftlive.zip
+[Info: 2023-02-25 21:27:54.932036: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/904845d2c49e57b3c6423fa50a7f5c1bfc3f2166/onevanilla.zip
+[Info: 2023-02-25 21:27:55.254194: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:55.254326: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/f7720f524210ed744a8c67d1f0ba379ed1adb471/logos.zip
+[Info: 2023-02-25 21:27:55.254596: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/f7720f524210ed744a8c67d1f0ba379ed1adb471/logos.zip
+[Info: 2023-02-25 21:27:55.254644: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/8d37a1e3e151642aaf4c75c85d5084622dd2aff6/thumbnails.zip
+[Info: 2023-02-25 21:27:55.901282: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:27:55.901378: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/8d37a1e3e151642aaf4c75c85d5084622dd2aff6/thumbnails.zip
+[Info: 2023-02-25 21:27:55.901659: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/8d37a1e3e151642aaf4c75c85d5084622dd2aff6/thumbnails.zip
+[Info: 2023-02-25 21:27:55.901709: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/0fee13556ca0c8d69fa86b0d30cf2794d3c6507f/ui.zip
+[Info: 2023-02-25 21:28:06.763644: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:06.764494: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/95d233109b2825fe6fcb767009805ea7c851c734/allaytwirl.zip
+[Info: 2023-02-25 21:28:06.764958: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/95d233109b2825fe6fcb767009805ea7c851c734/allaytwirl.zip
+[Info: 2023-02-25 21:28:06.765057: NetQueue.cpp(695)] NetQueue: Starting net action https://launcher.mojang.com/v1/objects/360658d2179bde814c2ad40929ce6696571b7b14/CodeResources
+[Info: 2023-02-25 21:28:06.787857: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:06.787930: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/360658d2179bde814c2ad40929ce6696571b7b14/CodeResources
+[Info: 2023-02-25 21:28:06.788198: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/360658d2179bde814c2ad40929ce6696571b7b14/CodeResources
+[Info: 2023-02-25 21:28:07.655897: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:07.656019: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/b15825fa815099d73c0bfb0ef06ab499eb8e28e5/images.zip
+[Info: 2023-02-25 21:28:07.656879: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/b15825fa815099d73c0bfb0ef06ab499eb8e28e5/images.zip
+[Info: 2023-02-25 21:28:07.987130: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:07.987203: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/6eb2aaf848c659a472ced57a8b3237f28484e3fd/allayloading.zip
+[Info: 2023-02-25 21:28:07.987711: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/6eb2aaf848c659a472ced57a8b3237f28484e3fd/allayloading.zip
+[Info: 2023-02-25 21:28:08.715228: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:08.715295: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/0fee13556ca0c8d69fa86b0d30cf2794d3c6507f/ui.zip
+[Info: 2023-02-25 21:28:08.715555: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/0fee13556ca0c8d69fa86b0d30cf2794d3c6507f/ui.zip
+[Info: 2023-02-25 21:28:15.829175: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:15.829977: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/904845d2c49e57b3c6423fa50a7f5c1bfc3f2166/onevanilla.zip
+[Info: 2023-02-25 21:28:15.830443: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/904845d2c49e57b3c6423fa50a7f5c1bfc3f2166/onevanilla.zip
+[Info: 2023-02-25 21:28:17.184722: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.32, Host: piston-data.mojang.com
+[Info: 2023-02-25 21:28:17.184802: NetQueue.cpp(573)] NetQueue: Action finished: https://launcher.mojang.com/v1/objects/5d72b9b220c76e1a7fd460791251b1961aff1875/allayreveal.zip
+[Info: 2023-02-25 21:28:17.185231: NetQueue.cpp(615)] Action finalized: https://launcher.mojang.com/v1/objects/5d72b9b220c76e1a7fd460791251b1961aff1875/allayreveal.zip
+[Info: 2023-02-25 21:28:17.185696: PistonUpdate.cpp(879)] DeleteFile(/.../.version)
+[Info: 2023-02-25 21:28:17.187806: PistonUpdate.cpp(879)] DeleteFile(/.../launcher-Helper (GPU))
+[Info: 2023-02-25 21:28:17.188170: PistonUpdate.cpp(879)] DeleteFile(/.../launcher-Helper (Plugin))
+[Info: 2023-02-25 21:28:17.188436: PistonUpdate.cpp(879)] DeleteFile(/.../launcher-Helper (Renderer))
+[Info: 2023-02-25 21:28:17.188698: PistonUpdate.cpp(879)] DeleteFile(/.../launcher-Helper)
+[Info: 2023-02-25 21:28:17.188945: PistonUpdate.cpp(879)] DeleteFile(/.../launcher)
+[Info: 2023-02-25 21:28:17.190148: PistonUpdate.cpp(879)] DeleteFile(/.../JavaCheck.jar)
+[Info: 2023-02-25 21:28:17.190401: PistonUpdate.cpp(879)] DeleteFile(/.../ui.zip)
+[Info: 2023-02-25 21:28:17.197269: PistonUpdate.cpp(879)] DeleteFile(/.../CodeResources)
+[Info: 2023-02-25 21:28:17.197753: PistonUpdate.cpp(897)] Decompress(/.../5fc82713cf4f43c031c9730808f0216098e8e48e, /.../launcher-Helper (GPU), executable)
+[Info: 2023-02-25 21:28:17.201997: PistonUpdate.cpp(897)] Decompress(/.../86cfced85d35006c89ca785fea6b5faa589c3b04, /.../launcher-Helper (Plugin), executable)
+[Info: 2023-02-25 21:28:17.205622: PistonUpdate.cpp(897)] Decompress(/.../095695b51566e889cb6a7114245cd390ad137018, /.../launcher-Helper (Renderer), executable)
+[Info: 2023-02-25 21:28:17.211186: PistonUpdate.cpp(897)] Decompress(/.../be23386f0c81b860776b44880f4fa9ba887860b9, /.../launcher-Helper, executable)
+[Info: 2023-02-25 21:28:17.215747: PistonUpdate.cpp(897)] Decompress(/.../d0dd00066712d22d089dacea3b4b2b9b6044d1dd, /.../launcher, executable)
+[Info: 2023-02-25 21:28:17.442697: PistonUpdate.cpp(872)] CopyFile(/.../cc82e164aabb8cf165230461549999b8e0574016, /.../JavaCheck.jar)
+[Info: 2023-02-25 21:28:17.445123: PistonUpdate.cpp(872)] CopyFile(/.../631bdba5bd9e4d1ec29927d570eb6b096e7a740c, /.../allayexit.zip)
+[Info: 2023-02-25 21:28:17.475678: PistonUpdate.cpp(872)] CopyFile(/.../9870746d937570d891e16bdf9bbfdf002dc52d01, /.../allayidle.zip)
+[Info: 2023-02-25 21:28:17.511103: PistonUpdate.cpp(872)] CopyFile(/.../6eb2aaf848c659a472ced57a8b3237f28484e3fd, /.../allayloading.zip)
+[Info: 2023-02-25 21:28:17.562849: PistonUpdate.cpp(872)] CopyFile(/.../5d72b9b220c76e1a7fd460791251b1961aff1875, /.../allayreveal.zip)
+[Info: 2023-02-25 21:28:17.629143: PistonUpdate.cpp(872)] CopyFile(/.../95d233109b2825fe6fcb767009805ea7c851c734, /.../allaytwirl.zip)
+[Info: 2023-02-25 21:28:17.672936: PistonUpdate.cpp(872)] CopyFile(/.../45551e33af6153da7697adc8397f51a6083d9119, /.../background.zip)
+[Info: 2023-02-25 21:28:17.689273: PistonUpdate.cpp(872)] CopyFile(/.../4c0bf1ac1a01ec46283297e04750e8d4ecd32a45, /.../common.zip)
+[Info: 2023-02-25 21:28:17.693597: PistonUpdate.cpp(872)] CopyFile(/.../2506b6650eb25794efd19c66049c731667a0440d, /.../icons.zip)
+[Info: 2023-02-25 21:28:17.694810: PistonUpdate.cpp(872)] CopyFile(/.../b15825fa815099d73c0bfb0ef06ab499eb8e28e5, /.../images.zip)
+[Info: 2023-02-25 21:28:17.739157: PistonUpdate.cpp(872)] CopyFile(/.../5889913623c172da5ff6d72f09ae0d141381053e, /.../legendsnotification.zip)
+[Info: 2023-02-25 21:28:17.755899: PistonUpdate.cpp(872)] CopyFile(/.../f7720f524210ed744a8c67d1f0ba379ed1adb471, /.../logos.zip)
+[Info: 2023-02-25 21:28:17.761715: PistonUpdate.cpp(872)] CopyFile(/.../8fd574303e0bce8172459f6be705e5dc9dc39664, /.../minecraftlive.zip)
+[Info: 2023-02-25 21:28:17.762901: PistonUpdate.cpp(872)] CopyFile(/.../904845d2c49e57b3c6423fa50a7f5c1bfc3f2166, /.../onevanilla.zip)
+[Info: 2023-02-25 21:28:17.788041: PistonUpdate.cpp(872)] CopyFile(/.../8d37a1e3e151642aaf4c75c85d5084622dd2aff6, /.../thumbnails.zip)
+[Info: 2023-02-25 21:28:17.791976: PistonUpdate.cpp(872)] CopyFile(/.../0fee13556ca0c8d69fa86b0d30cf2794d3c6507f, /.../ui.zip)
+[Info: 2023-02-25 21:28:17.813250: PistonUpdate.cpp(897)] Decompress(/.../deb7042c9d016f5b71ccd8d16dffba796db28cf5, /.../CodeResources)
+[Info: 2023-02-25 21:28:17.819736: UpdatePistonComponent.cpp(72)] Piston update succeeded, writing version file to: /.../.version !
+[Info: 2023-02-25 21:28:17.819968: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-02-25 21:28:17.819984: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-02-25 21:28:17.820005: NetQueue.cpp(834)] NetQueue: Worker thread shutting down.
+[Info: 2023-02-25 21:28:17.820415: NetQueue.cpp(229)] NetQueue: Done.

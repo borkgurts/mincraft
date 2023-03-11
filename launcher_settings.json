@@ -1,0 +1,10 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 2870449515573835232,
+  "formatVersion" : 0,
+  "locale" : "en-AU",
+  "productLibraryDir" : "/Users/sirishabaral/Library/Application Support/minecraft/products",
+  "useArm64JreIfSupported" : true,
+  "version" : 2
+}

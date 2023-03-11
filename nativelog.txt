@@ -1,0 +1,26 @@
+﻿Native Launcher Version: 418
+Operating System: OSX Version 13.0 (Build 22A380)
+Application Data directory: /Users/sirishabaral/Library/Application Support/minecraft
+Executable Path: /Users/sirishabaral/Documents/curseforge/minecraft/Install/Minecraft.app/Contents/MacOS/launcher
+App Directory dir: /Users/sirishabaral/Documents/curseforge/minecraft/Install/Minecraft.app/Contents
+Game data directory: /Users/sirishabaral/Library/Application Support/minecraft
+Launcher dir: /Users/sirishabaral/Library/Application Support/minecraft/launcher
+Java dir: /Users/sirishabaral/Library/Application Support/minecraft/runtime/jre-x64
+TmpDir dir: /var/folders/fp/sgfr9vs53x51tpz9f7hqqkhc0000gn/T/MinecraftLauncher
+x64: 1
+Using configuration at path: /Users/sirishabaral/Library/Application Support/minecraft/launcher_profiles.json
+Failed to determine configuration file size: No such file or directory
+Deciding on update with strategy 0 and clientID 0
+We should change launcher-bootstrap from 418 to 1.0.1222
+launcher-bootstrap update is needed.
+Error opening: /Users/sirishabaral/Library/Application Support/minecraft/launcher/.version, Error message: No such file or directory
+Deciding on update with strategy 0 and clientID 0
+We should change launcher-core from unknown to 2.2.2140
+launcher-core update is needed.
+Error opening: .version, Error message: No such file or directory
+Deciding on update with strategy 0 and clientID 0
+We should change jre-x64 from unknown to 1.8.0_74.11
+jre-x64 update is needed.
+We need to update - starting the updater.
+Updater succeeded and exited.
+Bootstrap is relaunching because of an update.
